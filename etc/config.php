@@ -336,6 +336,8 @@ return [
         'Course2Link35_CreatePlugins' => 0,
         'Course2Link36_DiaablePlugin' => 1,
         'Course2Link37_ObserversExample' => 1,
+        'Course2Link38_DispatchEventExample' => 1,
+        'Course2Link39_DisableEventExample' => 1,
         'Course2Link4_Example' => 0,
         'Course2Link6_DefaultPage' => 0,
         'Course2Link7_LayoutSample' => 0,
